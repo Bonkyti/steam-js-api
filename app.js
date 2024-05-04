@@ -1,6 +1,6 @@
 const api = {}
 
-var _key = ''
+var _key = 'steamiscool'
 
 function setKey(key) { _key = key }
 
